@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### API Google (comming soon)
 
-![Quality Gate Status](http://localhost:9000/dashboard?id=com.inditex.zarashowroom%3Azarashowroom-backend-model)
+http://localhost:9000/api/project_badges/quality_gate?project=com.inditex.zarashowroom%3Azarashowroom-backend-model
